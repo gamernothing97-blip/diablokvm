@@ -1,0 +1,94 @@
+DIABLO KVM PANEL — SOURCE-AVAILABLE PROPRIETARY LICENSE
+Version 1.0
+
+Copyright (c) 2026 Diablo. All rights reserved.
+
+"Software" means Diablo KVM Panel, including all source code, scripts, views,
+stylesheets, documentation, installers and any other file in this repository
+or in any archive (.zip, .tar, etc.) distributed from it, and every copy,
+fork, modification or derivative of any of them.
+
+The Software is made publicly VISIBLE so that people can read it and evaluate
+it. It is NOT open source and it is NOT free software. Being able to download
+or view the Software does not give you any ownership of it or any right to use
+it beyond what is written below. All rights not expressly granted are reserved
+by Diablo.
+
+1. WHAT YOU MAY DO
+   You may, free of charge:
+   a) view and read the source code;
+   b) download one copy and run it for personal, non-commercial, private
+      evaluation and learning, on machines you own or control; and
+   c) report bugs and suggest changes to the author.
+
+2. WHAT YOU MAY NOT DO
+   Without a separate written licence signed or sent by Diablo, you may not:
+   a) use the Software commercially, including selling VPS, hosting or any
+      other service to third parties with it, or using it inside a business;
+   b) sell, resell, rent, lease, sublicense or otherwise charge money for the
+      Software or access to it;
+   c) copy, redistribute, re-upload, mirror, publish or fork the Software, in
+      whole or in part, other than the GitHub fork button on the original
+      repository, and then only for the purpose of proposing changes back to
+      the author;
+   d) modify the Software and distribute the result, or build another product,
+      panel, template, script or service from it or from substantial parts
+      of it;
+   e) remove, hide or alter this LICENSE, any copyright notice, the "Diablo"
+      name or branding, or any attribution in the Software or its user
+      interface;
+   f) rename the Software or present it, or any part of it, as your own work;
+   g) remove, bypass, disable or tamper with any notice, restriction or check
+      in the Software, or help anyone else to do so;
+   h) use the Software, its source code or its output to train, fine-tune or
+      evaluate machine-learning models, or to produce a clone or rewrite of it;
+   i) use the Software to attack, disrupt or gain unauthorised access to any
+      system, or to host unlawful content.
+
+3. CONTRIBUTIONS
+   If you send code, a patch, a pull request or an idea to the author, you
+   grant Diablo a perpetual, worldwide, irrevocable, royalty-free right to use,
+   modify, relicense and distribute it as part of the Software, and you confirm
+   that you have the right to give it. You get no ownership of the Software
+   because of your contribution.
+
+4. COMMERCIAL LICENCE
+   To use the Software commercially or in any way not allowed above, ask the
+   author for a written licence first. Permission is only valid if it is in
+   writing from Diablo. Silence, a missing technical restriction, or the fact
+   that the code is publicly reachable is never permission.
+
+5. THIRD-PARTY COMPONENTS
+   The Software depends on third-party packages (for example Express, ws,
+   better-sqlite3, noVNC and xterm.js) that are installed through npm. They
+   remain under their own licences, which are listed in their packages. This
+   LICENSE applies only to the code written by Diablo.
+
+6. TERMINATION
+   Your rights end automatically and immediately if you break any term of this
+   LICENSE. When they end you must stop using the Software and delete every
+   copy you hold. Sections 2, 3, 6, 7, 8 and 9 survive termination.
+
+7. NO WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS
+   FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, AND THAT IT WILL BE FREE OF
+   BUGS OR SECURITY FLAWS.
+
+8. LIMITATION OF LIABILITY
+   TO THE MAXIMUM EXTENT PERMITTED BY LAW, DIABLO IS NOT LIABLE FOR ANY CLAIM,
+   DAMAGES, DATA LOSS, DOWNTIME OR OTHER LIABILITY, WHETHER IN CONTRACT, TORT
+   OR OTHERWISE, ARISING FROM OR IN CONNECTION WITH THE SOFTWARE OR ITS USE.
+   YOU RUN VIRTUAL MACHINES AND HOST-LEVEL TOOLS AT YOUR OWN RISK AND ARE
+   RESPONSIBLE FOR YOUR OWN BACKUPS AND SECURITY.
+
+9. ENFORCEMENT
+   Use of the Software outside this LICENSE is copyright infringement. Diablo
+   may enforce its rights, including by DMCA or equivalent takedown notices to
+   GitHub and other hosts, by requests to payment, hosting and domain
+   providers, and by legal action for damages and injunctive relief, in any
+   jurisdiction. If any part of this LICENSE is held unenforceable, the rest
+   stays in force.
+
+By downloading, copying, running or modifying the Software you accept this
+LICENSE. If you do not accept it, do not download or use the Software.
